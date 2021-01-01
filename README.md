@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currenty learning about Blockchain, Web3, and the future of the internet.
+
 <!--
 **DMats/DMats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
