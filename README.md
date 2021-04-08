@@ -1,6 +1,7 @@
-### Hi there 👋
+[![DMats's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmats&count_private=true&show_icons=true&theme=slateorange)](https://github.com/dmats/github-readme-stats)
+[![DMats's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmats&layout=compact&langs_count=8&theme=slateorange)](https://github.com/dmats/github-readme-stats)
 
-I'm currenty learning about Blockchain, Web3, and the future of the internet.
+
 
 <!--
 **DMats/DMats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
