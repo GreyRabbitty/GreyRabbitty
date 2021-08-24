@@ -6,7 +6,7 @@
 
 Previously, I
   * 🗣️ Spent three years developing a cross-platform, on-device, noise-robust speech recognition system along with desktop and native Android apps showcasing its capabilities.
-  * 🛩️ Spent four years working in the aerospace and defense industry working on a variety of projects including mission-critical GUIs and embedded sensors.
+  * 🛩️ Spent four years working in the aerospace and defense industry working on a variety of projects including GUI integration testing for an international network of sensors, experimental low-latency network firmware, hardware emulation software, embedded sensor software, and even dabbled in FPGA test fixture design.
 
 # More About Me
 
