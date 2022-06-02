@@ -1,8 +1,8 @@
 # 👋 Hello!
 
-💻 My name is David and I'm a software developer with over 8 years of professional experience. 
+💻 My name is David and I'm a software developer with over 9 years of professional experience. 
 
-🌊 Currently, I'm a web3 developer at the Ocean Protocol Foundation maintaining the Ocean python SDK and backend services like the metadata cache and data service provider.
+🌊 For the past year, I was a web3 developer at the Ocean Protocol Foundation maintaining the Ocean python SDK and backend services like the metadata cache and data service provider. I developed features and tests for Ocean "ONDA" v4.
 
 Previously, I
   * 🗣️ Spent three years developing a cross-platform, on-device, noise-robust speech recognition system along with desktop and native Android apps showcasing its capabilities.
