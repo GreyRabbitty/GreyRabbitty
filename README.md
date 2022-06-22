@@ -10,10 +10,10 @@ Previously, I
 
 # More About Me
 
-* Yat: https://y.at/🐜💻🔧
 * Twitter: https://twitter.com/MantisClone
 * Linkedin: https://www.linkedin.com/in/david-hunt-mateo/
 * Website: https://mantisdata.solutions
+* Yat: https://y.at/🐜💻🔧
 
 [![MantisClone's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantisclone&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![MantisClone's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantisclone&layout=compact&langs_count=8&hide=verilog)](https://github.com/anuraghazra/github-readme-stats)
