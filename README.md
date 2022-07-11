@@ -13,7 +13,7 @@ Previously, I
 * Twitter: https://twitter.com/MantisClone
 * Linkedin: https://www.linkedin.com/in/david-hunt-mateo/
 * Website: https://mantisdata.solutions
-* Yat: https://y.at/🐜💻🔧
+* Links: https://y.at/🐜💻🔧
 
 [![MantisClone's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantisclone&count_private=true&show_icons=true&custom_title=MantisClone%27s%20Github%20Stats&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![MantisClone's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantisclone&layout=compact&langs_count=8&hide=verilog&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
