@@ -14,6 +14,12 @@ Past Experience:
 * Website: https://mantisdata.solutions
 * Links: https://y.at/🐜💻🔧
 
+# Connect
+
+<a href="https://twitter.com/MantisClone"><img align="left" src="https://raw.githubusercontent.com/MantisClone/MantisClone/main/resources/icons8-twitter.svg" alt="David Hunt-Mateo | Twitter" width="21px"/></a>
+<a href="https://www.linkedin.com/in/david-hunt-mateo/"><img align="left" src="https://raw.githubusercontent.com/MantisClone/MantisClone/main/resources/icons8-linkedin-2.svg" alt="David Hunt-Mateo | Linkedin" width="21px"/></a>
+
+
 [![MantisClone's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantisclone&count_private=true&show_icons=true&custom_title=MantisClone%27s%20Github%20Stats&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![MantisClone's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantisclone&layout=compact&langs_count=8&hide=verilog&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=-45,83f5e5,7A93DE -->
