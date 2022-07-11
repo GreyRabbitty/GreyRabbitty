@@ -9,8 +9,6 @@ Past Experience:
 
 # More About Me
 
-* Twitter: https://twitter.com/MantisClone
-* Linkedin: https://www.linkedin.com/in/david-hunt-mateo/
 * Website: https://mantisdata.solutions
 * Links: https://y.at/🐜💻🔧
 
