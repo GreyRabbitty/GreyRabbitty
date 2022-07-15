@@ -50,6 +50,8 @@
         src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
     <a href="https://developer.android.com" target="_blank"><img alt="Android"
         src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+    <a href="https://developer.android.com" target="_blank"><img alt="Android"
+        src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 </p>
 
 #### ⌨ Programming Languages:
@@ -135,6 +137,7 @@
 [![MantisClone's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantisclone&layout=compact&langs_count=8&hide=verilog&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=-45,83f5e5,7A93DE -->
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mantisclone.count_visitors)
 
 <!--
 **DMats/DMats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
