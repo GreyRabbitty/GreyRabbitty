@@ -1,4 +1,24 @@
-# 👋 Hello!
+### 👋 Hello, I'm David (aka. MantisClone)
+
+<p> 
+    <a href="https://twitter.com/MantisClone" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/MantisClone#2619" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://t.me/mantisclone" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://calendly.com/mantisclone/30min" target="_blank"><img alt="Calendly"
+        src="https://img.shields.io/badge/Calendly-5593ff?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
+    <a href="https://github.com/MantisClone" target="_blank"><img alt="GitHub"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/david-hunt-mateo" target="_blank"><img alt="LinkedIn"
+        src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://mirror.xyz/mantisclone.eth" target="_blank"><img alt="Mirror"
+        src="https://img.shields.io/badge/Mirror-007AFF.svg?&style=for-the-badge&logo=mirror&logoColor=white"/></a>
+    <a href="https://y.at/🐜💻🔧" target="_blank"><img alt="Yat"
+        src="https://img.shields.io/badge/Yat-ffde34?style=for-the-badge&logo=yat&logoColor=white"/></a>
+        
+</p>
 
 💻 My name is David and I'm a software developer with over 9 years of professional experience. 
 
@@ -6,12 +26,6 @@ Past Experience:
   * 🌊 For the past year, I was a web3 developer at the Ocean Protocol Foundation maintaining the Ocean python SDK and backend services like the metadata cache and data service provider. I developed features and tests for Ocean "ONDA" v4.
   * 🗣️ Spent three years developing a cross-platform, on-device, noise-robust speech recognition system along with desktop and native Android apps showcasing its capabilities.
   * 🛩️ Spent four years working in the aerospace and defense industry working on a variety of projects including GUI integration testing for an international network of sensors, experimental low-latency network firmware, hardware emulation software, embedded sensor software, and even dabbled in FPGA test fixture design.
-
-# Connect
-
-<a href="https://twitter.com/MantisClone"><img align="left" src="https://raw.githubusercontent.com/MantisClone/MantisClone/main/resources/icons8-twitter.svg" alt="David Hunt-Mateo | Twitter" width="48px"/></a>
-<a href="https://www.linkedin.com/in/david-hunt-mateo/"><img align="left" src="https://raw.githubusercontent.com/MantisClone/MantisClone/main/resources/icons8-linkedin-2.svg" alt="David Hunt-Mateo | Linkedin" width="48px"/></a>
-<br>
 
 # More About Me
 
