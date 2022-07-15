@@ -67,12 +67,13 @@
         src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="https://www.gnu.org/software/bash" target="_blank"><img alt="Bash"
         src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
+    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
+        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
-        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+
     
 </p>
     
@@ -111,6 +112,8 @@
 #### 🗃️ Dev Tooling:
 
 <p>
+    <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code"
+        src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
     <a href="https://git-scm.com" target="_blank"><img alt="Git"
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://semver.org" target="_blank"><img alt="SemVer"
