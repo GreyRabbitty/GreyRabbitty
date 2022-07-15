@@ -41,6 +41,7 @@
 ### 🎯 Skills
 
 #### 💻 OS:
+
 <p> 
     <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
         src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
@@ -50,8 +51,8 @@
         src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
     <a href="https://developer.android.com" target="_blank"><img alt="Android"
         src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
-    <a href="https://developer.android.com" target="_blank"><img alt="Android"
-        src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
+    <a href="https://www.virtualbox.org" target="_blank"><img alt="Virtualbox"
+        src="https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
 </p>
 
 #### ⌨ Programming Languages:
@@ -88,6 +89,8 @@
         src="https://img.shields.io/badge/JavaFX-F80000?style=for-the-badge&logo=javafx&logoColor=white"/></a>
     <a href="https://www.qt.io" target="_blank"><img alt="Qt"
         src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/></a>
+    <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
+        src="https://img.shields.io/badge/Truffle-3fe0c5?style=for-the-badge&logo=truffle&logoColor=white"/></a>
 
 <!--     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a> -->
