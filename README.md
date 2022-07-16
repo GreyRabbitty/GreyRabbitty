@@ -51,8 +51,6 @@
         src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
     <a href="https://developer.android.com" target="_blank"><img alt="Android"
         src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
-    <a href="https://www.virtualbox.org" target="_blank"><img alt="Virtualbox"
-        src="https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
 </p>
 
 #### ⌨ Programming Languages:
@@ -112,6 +110,8 @@
         src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
     <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
         src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
+    <a href="https://www.virtualbox.org" target="_blank"><img alt="Virtualbox"
+        src="https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
 </p>
 
 #### 🗃️ Dev Tooling:
