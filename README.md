@@ -138,7 +138,7 @@
 ### 🔎 Stats
 
 [![MantisClone's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantisclone&count_private=true&show_icons=true&custom_title=MantisClone%27s%20Github%20Stats&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![MantisClone's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantisclone&layout=compact&langs_count=8&hide=verilog&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![MantisClone's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantisclone&layout=compact&langs_count=8&hide=verilog,perl,assembly,matlab&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=-45,83f5e5,7A93DE -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mantisclone.count_visitors)
