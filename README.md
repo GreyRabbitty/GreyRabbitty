@@ -24,7 +24,7 @@
 ### ❓ About Me
 
 - 👷‍♂️ I'm a full-stack web3 developer, and I'm always on the lookout for new clients and opportunities.
-- 📫 Feel free to email [david.hunt-mateo@mantisdata.solutions](mailto:david.hunt-mateo@mantisdata.solutions) or [schedule a 1:1 call](https://calendly.com/mantisclone/30min)
+- 📫 Email me at [david.hunt-mateo@mantisdata.solutions](mailto:david.hunt-mateo@mantisdata.solutions) or [schedule a 1:1 call](https://calendly.com/mantisclone/30min)
 - 🔭 I’m currently working on: 
   - Integrating Ocean Protocol with Arweave decentralized storage
 - 🌱 I’m currently learning: 
