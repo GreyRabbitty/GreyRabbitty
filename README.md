@@ -119,7 +119,7 @@
 
 <p>
     <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code"
-        src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+        src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
     <a href="https://git-scm.com" target="_blank"><img alt="Git"
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
     <a href="https://semver.org" target="_blank"><img alt="SemVer"
