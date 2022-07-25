@@ -115,7 +115,7 @@
         src="https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/></a>
 </p>
 
-#### 🗃️ Dev Tooling:
+#### 🔧 Dev Tooling:
 
 <p>
     <a href="https://code.visualstudio.com" target="_blank"><img alt="Visual Studio Code"
