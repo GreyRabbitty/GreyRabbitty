@@ -56,6 +56,8 @@
 <p>
     <a href="https://www.python.org" target="_blank"><img alt="Python"
         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
+        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
     <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin"
         src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
     <a href="https://www.rust-lang.org" target="_blank"><img alt="Rust"
@@ -66,8 +68,6 @@
         src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="https://www.gnu.org/software/bash" target="_blank"><img alt="Bash"
         src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
-    <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
-        src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
@@ -76,7 +76,7 @@
     
 </p>
     
-#### 🎛️ Frameworks:
+#### 🎛️ Frontend Frameworks:
     
 <p>
     <a href="https://developer.android.com/jetpack" target="_blank"><img alt="Android"
@@ -85,8 +85,6 @@
         src="https://img.shields.io/badge/JavaFX-F80000?style=for-the-badge&logo=javafx&logoColor=white"/></a>
     <a href="https://www.qt.io" target="_blank"><img alt="Qt"
         src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/></a>
-    <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
-        src="https://img.shields.io/badge/Truffle-3fe0c5?style=for-the-badge&logo=truffle&logoColor=white"/></a>
 
 <!--     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a> -->
@@ -123,6 +121,8 @@
         src="https://img.shields.io/badge/SemVer-3F4551?style=for-the-badge&logo=semver&logoColor=white"/></a>
     <a href="https://www.postman.com" target="_blank"><img alt="Postman"
         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
+    <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
+        src="https://img.shields.io/badge/Truffle-3fe0c5?style=for-the-badge&logo=truffle&logoColor=white"/></a>
 </p>
 
 ### 💰 Funding
