@@ -28,7 +28,6 @@
   - Integrating Ocean Protocol with Arweave decentralized storage
 - 🌱 I’m currently learning: 
   - EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
-  - Frontend development with [Svelte](https://github.com/sveltejs/svelte)
 - 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, DeSoc, and NFTs.
 - ⏳ Previously:
   - Developed [Snapshot](https://docs.snapshot.org/) voting strategies for [Arrakis](https://snapshot.org/#/strategy/arrakis-finance), [H2O](https://snapshot.org/#/strategy/h2o), and [Rari Fuse](https://snapshot.org/#/strategy/rari-fuse)
