@@ -24,7 +24,6 @@
 ### ❓ About Me
 
 - 👷‍♂️ I'm a full-stack web3 developer, and I'm always on the lookout for new clients and opportunities.
-- 📫 Email me at [david.hunt-mateo@mantisdata.solutions](mailto:david.hunt-mateo@mantisdata.solutions) or [schedule a 1:1 call](https://calendly.com/mantisclone/30min)
 - 🔭 I’m currently working on: 
   - Integrating Ocean Protocol with Arweave decentralized storage
 - 🌱 I’m currently learning: 
@@ -37,6 +36,7 @@
   - 3 years at [Think-A-Move](https://web.archive.org/web/20220715171403/https://think-a-move.com/products/spear-asr/) building a cross-platform, on-device, noise-robust speech recognition system along with desktop and native Android apps showcasing its capabilities.
   - 4 years at [Northrop Grumman](https://www.northropgrumman.com/) working on a variety of projects including GUI integration testing for an international network of sensors, experimental low-latency networking, hardware emulation, and embedded image processing.
 - 🎓 I hold a Bachelor's degree, double major, in [Computer Engineering](https://guide.wisc.edu/undergraduate/engineering/electrical-computer-engineering/computer-engineering-bs/) and [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) from the University of Wisconsin - Madison.
+- 📫 Email me at [david.hunt-mateo@mantisdata.solutions](mailto:david.hunt-mateo@mantisdata.solutions) or [schedule a 1:1 call](https://calendly.com/mantisclone/30min)
 - 😄 Pronouns: He/Him
 
 ### 🎯 Skills
