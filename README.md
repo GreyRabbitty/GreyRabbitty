@@ -24,11 +24,9 @@
 ### ❓ About Me
 
 - 👷‍♂️ I'm a full-stack web3 developer, and I'm always on the lookout for new clients and opportunities.
-- 🔭 I’m currently working on: 
-  - Integrating Ocean Protocol with Arweave decentralized storage
-- 🌱 I’m currently learning: 
-  - EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
-- 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, DeSoc, and NFTs.
+- 🔭 I’m currently working on: Integrating Ocean Protocol with Arweave decentralized storage
+- 🌱 I’m currently learning: EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
+- 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
 - ⏳ Previously:
   - Developed [Snapshot](https://docs.snapshot.org/) voting strategies for [Arrakis](https://snapshot.org/#/strategy/arrakis-finance), [H2O](https://snapshot.org/#/strategy/h2o), and [Rari Fuse](https://snapshot.org/#/strategy/rari-fuse)
   - 1 year at [Ocean Protocol Foundation](https://oceanprotocol.com/) maintaining the ocean.py SDK, aquarius event cache, and provider access proxy. Developed features and tests for Ocean "ONDA" V4.
