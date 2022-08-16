@@ -76,6 +76,15 @@
     
 </p>
     
+#### Web3 Dev Tooling:
+
+<p>
+    <a href="https://hardhat.org" target="_blank"><img alt="Hardhat"
+        src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white"/></a>
+    <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
+        src="https://img.shields.io/badge/Truffle-3fe0c5?style=for-the-badge&logo=truffle&logoColor=white"/></a>
+</p>
+
 #### 🎛️ Frontend Frameworks:
     
 <p>
@@ -121,8 +130,6 @@
         src="https://img.shields.io/badge/SemVer-3F4551?style=for-the-badge&logo=semver&logoColor=white"/></a>
     <a href="https://www.postman.com" target="_blank"><img alt="Postman"
         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
-    <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
-        src="https://img.shields.io/badge/Truffle-3fe0c5?style=for-the-badge&logo=truffle&logoColor=white"/></a>
 </p>
 
 ### 💰 Funding
