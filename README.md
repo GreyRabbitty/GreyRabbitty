@@ -70,10 +70,14 @@
         src="https://img.shields.io/badge/Web3.py-ef6830?style=for-the-badge&logo=alchemy&logoColor=white"/></a>
     <a href="https://ethers.org/" target="_blank"><img alt="ethers.js"
         src="https://img.shields.io/badge/ethers.js-1d4c7c?style=for-the-badge&logo=ethers&logoColor=white"/></a>
+    <a href="https://thegraph.com/en" target="_blank"><img alt="The Graph"
+        src="https://img.shields.io/badge/The Graph-6646ec?style=for-the-badge&logo=thegraph&logoColor=white"/></a>
     <a href="https://hardhat.org" target="_blank"><img alt="Hardhat"
         src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white"/></a>
     <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
         src="https://img.shields.io/badge/Truffle-3fe0c5?style=for-the-badge&logo=truffle&logoColor=white"/></a>
+    <a href="https://etherscan.io" target="_blank"><img alt="Etherscan"
+        src="https://img.shields.io/badge/Etherscan-21325b?style=for-the-badge&logo=etherscan&logoColor=white"/></a>
     <a href="https://infura.io" target="_blank"><img alt="Infura"
         src="https://img.shields.io/badge/Infura-ff5833?style=for-the-badge&logo=infura&logoColor=white"/></a>
     <a href="https://www.alchemy.com" target="_blank"><img alt="Alchemy"
