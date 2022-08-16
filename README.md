@@ -72,6 +72,8 @@
         src="https://img.shields.io/badge/ethers.js-1d4c7c?style=for-the-badge&logo=ethers&logoColor=white"/></a>
     <a href="https://thegraph.com/en" target="_blank"><img alt="The Graph"
         src="https://img.shields.io/badge/The Graph-6646ec?style=for-the-badge&logo=thegraph&logoColor=white"/></a>
+    <a href="https://docs.scaffoldeth.io/scaffold-eth" target="_blank"><img alt="scaffold-eth"
+        src="https://img.shields.io/badge/scaffold--eth-e39528?style=for-the-badge&logo=scaffold-eth&logoColor=white"/></a>
     <a href="https://hardhat.org" target="_blank"><img alt="Hardhat"
         src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white"/></a>
     <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
