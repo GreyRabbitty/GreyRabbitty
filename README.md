@@ -38,19 +38,6 @@
 
 ### 🎯 Skills
 
-#### 💻 OS:
-
-<p> 
-    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
-        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
-    <a href="https://linuxmint.com" target="_blank"><img alt="Mint"
-        src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/></a>
-    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
-        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
-    <a href="https://developer.android.com" target="_blank"><img alt="Android"
-        src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
-</p>
-
 #### ⌨ Programming Languages:
 
 <p>
@@ -72,17 +59,27 @@
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-
-    
+    <a href="https://vyper.readthedocs.io/en/stable" target="_blank"><img alt="Vyper"
+        src="https://img.shields.io/badge/Vyper-666666?style=for-the-badge&logo=vyper&logoColor=black"/></a>
 </p>
     
-#### Web3 Dev Tooling:
+#### ⛓️ Web3 Tooling:
 
 <p>
+    <a href="https://web3py.readthedocs.io/en/stable" target="_blank"><img alt="Web3.py"
+        src="https://img.shields.io/badge/Web3.py-ef6830?style=for-the-badge&logo=alchemy&logoColor=white"/></a>
+    <a href="https://ethers.org/" target="_blank"><img alt="ethers.js"
+        src="https://img.shields.io/badge/ethers.js-1d4c7c?style=for-the-badge&logo=ethers&logoColor=white"/></a>
     <a href="https://hardhat.org" target="_blank"><img alt="Hardhat"
         src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white"/></a>
     <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
         src="https://img.shields.io/badge/Truffle-3fe0c5?style=for-the-badge&logo=truffle&logoColor=white"/></a>
+    <a href="https://infura.io" target="_blank"><img alt="Infura"
+        src="https://img.shields.io/badge/Infura-ff5833?style=for-the-badge&logo=infura&logoColor=white"/></a>
+    <a href="https://www.alchemy.com" target="_blank"><img alt="Alchemy"
+        src="https://img.shields.io/badge/Alchemy-363ff9?style=for-the-badge&logo=alchemy&logoColor=white"/></a>
+<!--     <a href="https://www.apeworx.io" target="_blank"><img alt="Ape"
+        src="https://img.shields.io/badge/Ape-7dfb01?style=for-the-badge&logo=truffle&logoColor=white"/></a> -->
 </p>
 
 #### 🎛️ Frontend Frameworks:
@@ -94,7 +91,6 @@
         src="https://img.shields.io/badge/JavaFX-F80000?style=for-the-badge&logo=javafx&logoColor=white"/></a>
     <a href="https://www.qt.io" target="_blank"><img alt="Qt"
         src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/></a>
-
 <!--     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a> -->
 </p>
@@ -130,6 +126,23 @@
         src="https://img.shields.io/badge/SemVer-3F4551?style=for-the-badge&logo=semver&logoColor=white"/></a>
     <a href="https://www.postman.com" target="_blank"><img alt="Postman"
         src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>
+</p>
+
+#### 💻 OS:
+
+<p> 
+    <a href="https://ubuntu.com" target="_blank"><img alt="Ubuntu"
+        src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+    <a href="https://linuxmint.com" target="_blank"><img alt="Mint"
+        src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/></a>
+    <a href="https://www.centos.org" target="_blank"><img alt="CentOS"
+        src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/></a>
+    <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img alt="Red Hat"
+        src="https://img.shields.io/badge/Red Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
+    <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
+        src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+    <a href="https://developer.android.com" target="_blank"><img alt="Android"
+        src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
 </p>
 
 ### 💰 Funding
