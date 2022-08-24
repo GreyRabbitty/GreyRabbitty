@@ -45,6 +45,12 @@
         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
         src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
+    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
+        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<!--    <a href="https://vyper.readthedocs.io/en/stable" target="_blank"><img alt="Vyper"
+        src="https://img.shields.io/badge/Vyper-666666?style=for-the-badge&logo=vyper&logoColor=black"/></a> -->
     <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin"
         src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
     <a href="https://www.rust-lang.org" target="_blank"><img alt="Rust"
@@ -55,12 +61,6 @@
         src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="https://www.gnu.org/software/bash" target="_blank"><img alt="Bash"
         src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
-        src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<!--    <a href="https://vyper.readthedocs.io/en/stable" target="_blank"><img alt="Vyper"
-        src="https://img.shields.io/badge/Vyper-666666?style=for-the-badge&logo=vyper&logoColor=black"/></a> -->
 </p>
     
 #### ⛓️ Web3 Tooling:
