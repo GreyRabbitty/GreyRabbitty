@@ -1,4 +1,4 @@
-### 👋 Hello, I'm David (aka. MantisClone)
+### 👋 Hello, I'm MantisClone (David)
 
 <p> 
     <a href="https://twitter.com/MantisClone" target="_blank"><img alt="Twitter"
