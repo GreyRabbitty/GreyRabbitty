@@ -24,7 +24,7 @@
 ### ❓ About Me
 
 - 👷‍♂️ I'm a freelance full-stack web3 developer
-- 🔭 I’m currently working on: Expanding the [Request Network](https://github.com/RequestNetwork/) ecosystem
+- 🔭 I’m currently working on: Protocol enhancements and Developer Advocacy at [Request Network](https://github.com/RequestNetwork/)
 - 🌱 I’m currently learning: EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
 - 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
 - ⏳ Previously:
