@@ -1,4 +1,4 @@
-### 👋 Hello, I'm MantisClone (David)
+### 👋 Hello, I'm MantisClone (David Hunt-Mateo)
 
 <p> 
     <a href="https://twitter.com/MantisClone" target="_blank"><img alt="Twitter"
@@ -23,12 +23,20 @@
 
 ### ❓ About Me
 
-- 👷‍♂️ I'm a full-stack web3 developer, and I'm always on the lookout for new clients and opportunities.
-- 🔭 I’m currently working on: Integrating Ocean Protocol with Arweave decentralized storage
+- 👷‍♂️ I'm a freelance full-stack web3 developer
+- 🔭 I’m currently working on: Expanding the [Request Network](https://github.com/RequestNetwork/) ecosystem
 - 🌱 I’m currently learning: EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
 - 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
 - ⏳ Previously:
-  - Developed [Snapshot](https://docs.snapshot.org/) voting strategies for [Arrakis](https://snapshot.org/#/strategy/arrakis-finance), [H2O](https://snapshot.org/#/strategy/h2o), and [Rari Fuse](https://snapshot.org/#/strategy/rari-fuse)
+  - 5 months freelancing
+    - Developed a microservice for OceanDAO that downloads files from IPFS and uploads them to Arweave via Bundlr.
+    - Developed [Snapshot](https://docs.snapshot.org/) voting strategies for [Arrakis](https://snapshot.org/#/strategy/arrakis-finance), [H2O](https://snapshot.org/#/strategy/h2o), [Rari Fuse](https://snapshot.org/#/strategy/rari-fuse), and [Fight Club](https://snapshot.org/#/strategy/fight-club)
+    - Maintained Snapshot config and primary website for BanklessDAO
+    - Deployed SourceCred and Praise instances for [TalentDAO](https://github.com/Talent-DAO)
+    - Aggregated list of [Awesome Reputation Systems](https://github.com/MantisClone/awesome-reputation-systems)
+    - KERNEL Guide
+    - Opolis Ambassador
+    - DeveloperDAO Mentor
   - 1 year at [Ocean Protocol Foundation](https://oceanprotocol.com/) maintaining the ocean.py SDK, aquarius event cache, and provider access proxy. Developed features and tests for [Ocean ONDA V4](https://blog.oceanprotocol.com/oceanonda-v4-production-has-arrived-cb4fe8faaf39) which added DataNFTs and improved monetization.
   - 3 years at [Think-A-Move](https://web.archive.org/web/20220715171403/https://think-a-move.com/products/spear-asr/) building a cross-platform, on-device, noise-robust speech recognition system along with desktop and native Android apps showcasing its capabilities.
   - 4 years at [Northrop Grumman](https://www.northropgrumman.com/) working on a variety of projects including GUI integration testing, experimental low-latency networking, hardware emulation, and embedded image processing.
@@ -43,12 +51,12 @@
 <p>
     <a href="https://www.python.org" target="_blank"><img alt="Python"
         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
     <a href="https://docs.soliditylang.org" target="_blank"><img alt="Solidity"
         src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></a>
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript"
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <!--    <a href="https://vyper.readthedocs.io/en/stable" target="_blank"><img alt="Vyper"
         src="https://img.shields.io/badge/Vyper-666666?style=for-the-badge&logo=vyper&logoColor=black"/></a> -->
     <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin"
@@ -72,10 +80,14 @@
         src="https://img.shields.io/badge/ethers.js-1d4c7c?style=for-the-badge&logo=ethers&logoColor=white"/></a>
     <a href="https://thegraph.com/en" target="_blank"><img alt="The Graph"
         src="https://img.shields.io/badge/The Graph-6646ec?style=for-the-badge&logo=thegraph&logoColor=white"/></a>
+    <a href="https://ctc.readthedocs.io/en/latest/" target="_blank"><img alt="Check the Chain"
+        src="https://img.shields.io/badge/Check the Chain (ctc)-2980b9?style=for-the-badge&logo=checkthechain&logoColor=white"/></a>
     <a href="https://docs.scaffoldeth.io/scaffold-eth" target="_blank"><img alt="scaffold-eth"
         src="https://img.shields.io/badge/scaffold--eth-e39528?style=for-the-badge&logo=scaffold-eth&logoColor=white"/></a>
     <a href="https://hardhat.org" target="_blank"><img alt="Hardhat"
         src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white"/></a>
+    <a href="https://www.apeworx.io" target="_blank"><img alt="Ape"
+        src="https://img.shields.io/badge/Ape-7dfb01?style=for-the-badge&logo=truffle&logoColor=white"/></a>
     <a href="https://trufflesuite.com" target="_blank"><img alt="Truffle"
         src="https://img.shields.io/badge/Truffle-3fe0c5?style=for-the-badge&logo=truffle&logoColor=white"/></a>
     <a href="https://etherscan.io" target="_blank"><img alt="Etherscan"
@@ -84,21 +96,23 @@
         src="https://img.shields.io/badge/Infura-ff5833?style=for-the-badge&logo=infura&logoColor=white"/></a>
     <a href="https://www.alchemy.com" target="_blank"><img alt="Alchemy"
         src="https://img.shields.io/badge/Alchemy-363ff9?style=for-the-badge&logo=alchemy&logoColor=white"/></a>
-<!--     <a href="https://www.apeworx.io" target="_blank"><img alt="Ape"
-        src="https://img.shields.io/badge/Ape-7dfb01?style=for-the-badge&logo=truffle&logoColor=white"/></a> -->
+    <a href="https://tenderly.co/" target="_blank"><img alt="Tenderly"
+        src="https://img.shields.io/badge/Tenderly-6837f1?style=for-the-badge&logo=tenderly&logoColor=white"/></a>  
 </p>
 
-#### 🎛️ Frontend Frameworks:
+#### 🎛️ Platforms and Frameworks:
     
 <p>
+    <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
+        src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask"
+        src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
     <a href="https://developer.android.com/jetpack" target="_blank"><img alt="Android"
         src="https://img.shields.io/badge/Android Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
     <a href="https://openjfx.io" target="_blank"><img alt="JavaFX"
         src="https://img.shields.io/badge/JavaFX-F80000?style=for-the-badge&logo=javafx&logoColor=white"/></a>
     <a href="https://www.qt.io" target="_blank"><img alt="Qt"
         src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/></a>
-<!--     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
-        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a> -->
 </p>
     
     
