@@ -106,6 +106,8 @@
 <p>
     <a href="https://nodejs.org" target="_blank"><img alt="Node.js"
         src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+    <a href="https://nodejs.org" target="_blank"><img alt="Express"
+        src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
     <a href="https://flask.palletsprojects.com/" target="_blank"><img alt="Flask"
         src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
     <a href="https://developer.android.com/jetpack" target="_blank"><img alt="Android"
