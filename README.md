@@ -76,7 +76,7 @@
 
 <p>
     <a href="https://web3py.readthedocs.io/en/stable" target="_blank"><img alt="Web3.py"
-        src="https://img.shields.io/badge/Web3.py-ef6830?style=for-the-badge&logo=alchemy&logoColor=white"/></a>
+        src="https://img.shields.io/badge/Web3.py-ef6830?style=for-the-badge&logo=web3py&logoColor=white"/></a>
     <a href="https://ethers.org/" target="_blank"><img alt="ethers.js"
         src="https://img.shields.io/badge/ethers.js-1d4c7c?style=for-the-badge&logo=ethers&logoColor=white"/></a>
     <a href="https://thegraph.com/en" target="_blank"><img alt="The Graph"
