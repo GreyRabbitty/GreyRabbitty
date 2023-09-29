@@ -158,8 +158,6 @@
         src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
     <a href="https://linuxmint.com" target="_blank"><img alt="Mint"
         src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/></a>
-    <a href="https://www.centos.org" target="_blank"><img alt="CentOS"
-        src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/></a>
     <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank"><img alt="Red Hat"
         src="https://img.shields.io/badge/Red Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
     <a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img alt="Windows"
