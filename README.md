@@ -33,7 +33,6 @@
     - Developed [Snapshot](https://docs.snapshot.org/) voting strategies for [Arrakis](https://snapshot.org/#/strategy/arrakis-finance), [H2O](https://snapshot.org/#/strategy/h2o), [Rari Fuse](https://snapshot.org/#/strategy/rari-fuse), and [Fight Club](https://snapshot.org/#/strategy/fight-club)
     - Maintained Snapshot config and primary website for BanklessDAO
     - Deployed SourceCred and Praise instances for [TalentDAO](https://github.com/Talent-DAO)
-    - Aggregated list of [Awesome Reputation Systems](https://github.com/MantisClone/awesome-reputation-systems)
     - KERNEL Guide
     - Opolis Ambassador
     - DeveloperDAO Mentor
