@@ -172,12 +172,6 @@
         src="https://img.shields.io/badge/mantisclone.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
 </p>
 
-### 🔎 Stats
-
-[![Kanuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanuki&count_private=true&show_icons=true&custom_title=Kanuki%27s%20Github%20Stats&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Kanuki's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanuki&layout=compact&langs_count=8&hide=verilog,perl,assembly,matlab&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=-45,83f5e5,7A93DE -->
-
 <!--
 **DMats/DMats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
