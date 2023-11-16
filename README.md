@@ -1,4 +1,4 @@
-### 👋 Hello, I'm MantisClone (David Hunt-Mateo)
+### 👋 Hello, I'm Kazukii Novacovic
 
 <p> 
     <a href="https://twitter.com/MantisClone" target="_blank"><img alt="Twitter"
