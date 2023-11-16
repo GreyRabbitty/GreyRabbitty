@@ -3,11 +3,11 @@
 <p> 
     <a href="https://twitter.com/MantisClone" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/MantisClone#2619" target="_blank"><img alt="Discord"
+    <a href="https://discordapp.com/users/509337382810550280" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://t.me/mantisclone" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/grey_rabbit" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://github.com/MantisClone" target="_blank"><img alt="GitHub"
+    <a href="https://github.com/GreyRabbitty" target="_blank"><img alt="GitHub"
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/david-hunt-mateo" target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
