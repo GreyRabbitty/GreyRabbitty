@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Kazukii Novacovic
+### 👋 Hello, I'm Kazuki Novacovic
 
 <p> 
     <a href="https://twitter.com/MantisClone" target="_blank"><img alt="Twitter"
